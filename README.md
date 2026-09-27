@@ -12,3 +12,6 @@
 ### 🌐 Live Demo
 
 [Open Personal Expense Analyzer](https://personal-expense-analyzer-and-tracker.streamlit.app/)
+## 📸 Dashboard Preview
+
+![Expense Analyzer Dashboard](dashboard.png)
